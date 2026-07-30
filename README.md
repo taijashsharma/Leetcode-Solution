@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
