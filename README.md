@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
