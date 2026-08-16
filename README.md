@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -116,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
