@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
