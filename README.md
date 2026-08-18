@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
