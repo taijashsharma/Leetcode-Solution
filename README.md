@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
