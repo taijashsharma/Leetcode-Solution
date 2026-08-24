@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -170,5 +171,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
