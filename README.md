@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0867-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
