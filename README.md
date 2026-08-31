@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
