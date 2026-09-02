@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
