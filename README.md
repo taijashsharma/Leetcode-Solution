@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
