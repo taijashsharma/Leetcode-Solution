@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
+| [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0735-asteroid-collision) |
@@ -218,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
