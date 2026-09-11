@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
