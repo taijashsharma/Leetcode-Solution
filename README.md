@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
