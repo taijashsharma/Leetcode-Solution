@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0292-nim-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 ## Brainteaser
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
