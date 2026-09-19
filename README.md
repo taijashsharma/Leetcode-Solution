@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
