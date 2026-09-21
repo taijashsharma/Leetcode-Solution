@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0867-transpose-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
