@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0155-min-stack) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
