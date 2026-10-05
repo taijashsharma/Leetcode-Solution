@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -334,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
