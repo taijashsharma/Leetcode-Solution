@@ -1,13 +1,18 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-
-        if(n<=0){
+        if (n <= 0) {
             return false;
         }
+        return isPower(n, 1);
+    }
 
-        while(n%2==0){
-            n=n/2;
+    private boolean isPower(int n, long mul) {
+        if (n == mul) {
+            return true;
         }
-        return n==1;
+        if (mul > n) { 
+            return false;
+        }
+        return isPower(n, mul * 2);
     }
 }
