@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
