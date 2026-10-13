@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
