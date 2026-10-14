@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
