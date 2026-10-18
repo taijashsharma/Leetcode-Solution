@@ -6,10 +6,10 @@ class Solution {
         Set<Integer> seen = new HashSet<>();
         
         for (int num : nums) {
-            // set.add() returns false if the element was already present
-            if (!seen.add(num)) {
+            if (seen.contains(num)) {
                 return true;
             }
+            seen.add(num);
         }
         
         return false;
