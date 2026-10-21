@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1528-shuffle-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1528-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
 | [1816-truncate-sentence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
