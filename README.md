@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0342-power-of-four) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
@@ -395,4 +400,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
