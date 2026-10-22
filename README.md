@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0705-design-hashset) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/taijashsharma/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
