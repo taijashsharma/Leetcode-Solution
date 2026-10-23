@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/taijashsharma/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
