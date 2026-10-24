@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/taijashsharma/Leetcode-Solution/tree/master/0718-maximum-length-of-repeated-subarray) |
